@@ -6,9 +6,9 @@ To-Do: \
 ☐ New MiniMessage Input Format \
 ☑ Add # or no # hex support \
 ☐ Presets 
-# Add ORE Census Results
+#☑ Add ORE Census Results
 \
 ☑ Create all StatSites \
 ☑ Rename Stats to ORE-Census \
-☐ Finish
+☑ Finish
 
