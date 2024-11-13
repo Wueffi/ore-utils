@@ -10,5 +10,9 @@ To-Do: \
 \
 ☑ Create all StatSites \
 ☑ Rename Stats to ORE-Census \
-☑ Finish
+☑ Finish \
+# ☐ Add Election Tracker
+\
+☐ Base Information \
+☐ Q&A / Debate
 
