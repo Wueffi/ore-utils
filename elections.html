@@ -136,6 +136,17 @@
 
   <script src="script.js"></script>
 
+  <script>
+    function toggleContent() {
+      const content = document.getElementById('content');
+      if (content.style.display === 'none') {
+        content.style.display = 'block';
+      } else {
+        content.style.display = 'none';
+      }
+    }
+  </script>
+
 </head>
 
 <body>
@@ -283,8 +294,8 @@
       <h5 class="home-text09" style="text-align: center">Made by Waffle</h5>
       <br />
 
-      <button type="button" class="collapsible">Candidates</button>
-      <div class="content">
+      <button type="button" class="collapsible" onclick="toggleContent1()">Candidates</button>
+<div id="content1" style="display: none;">
         <br>
         <h5 class="home-text09" style="text-align: center">(Click usernames for a perma-link)</h5>
         </span>
