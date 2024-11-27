@@ -13,6 +13,8 @@ To-Do: \
 ☑ Finish \
 # ☐ Add Election Tracker
 \
-☐ Base Information \
-☐ Q&A / Debate
+☑ Nominees \
+☑ Profiles-Test \
+☐ Interviews \
+☐ Debate 
 
